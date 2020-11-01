@@ -1,0 +1,4 @@
+Programul foloseste librarii exterioare (Gson library), pentru importarea acesteia va fi necesar tool-ul Maven.
+
+Programul functioneaza pentru reteaua petri definita in fisierul petrinet_tema1.json.
+Pentru ca acesta sa functioneze pentru orice alta retea petri, trebuie furnizat fisierul .json al retelei respective, facandu-se modificarile necesare in clasa Main.
